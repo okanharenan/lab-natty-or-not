@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+Para a descrição do projeto "Natural ou Fake Natty?", você pode usar a seguinte formatação:
 
-> Woooow! Look at this 👀
+Projeto: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+📒 Descrição
+Participe do empolgante desafio "Natural ou Fake Natty?" e mergulhe no mundo das Inteligências Artificiais Generativas. Este projeto não é apenas uma jornada de aprendizado, mas também uma oportunidade única para mostrar suas habilidades criativas e técnicas, criando conteúdos que desafiam os limites do realismo digital! Seus objetivos serão os seguintes:
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+1️⃣ Crie e Personalize: Inicie com um fork do nosso repositório e transforme-o em uma vitrine do seu talento. Personalize seu README com detalhes do projeto, seguindo nosso template intuitivo;
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+2️⃣ Produza Conteúdos Incríveis: Utilize IAs para gerar textos, imagens, áudios ou vídeos que capturam a essência do "quase real". Deixe sua criatividade fluir e surpreenda a todos com o que você pode criar com a tecnologia;
 
-### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+3️⃣ Compartilhe e Inspire: Publique seu repositório submetido na plataforma da DIO e compartilhe nas redes sociais com a hashtag #LabDIONattyOrNot. Inspire outros criadores e construa sua rede profissional.
 
-### Template
+🤖 Tecnologias Utilizadas
+Pictory.AI: Utilizado para criar vídeos e imagens realistas.
+GitHub: Para versionamento e compartilhamento do projeto.
+Markdown: Para documentação do projeto.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+🧐 Processo de Criação
+Planejamento: Decidi criar um vídeo promocional e uma série de imagens que destacam o uso de IAs generativas na criação de conteúdo.
+Utilização do Pictory.AI:
+Para o vídeo, selecionei um script de exemplo e utilizei o Pictory.AI para gerar as imagens e a narração.
+Para as imagens, utilizei os recursos de geração de mídia da Pictory.AI para criar visuais impactantes.
+Edição e Refinamento: Ajustei os conteúdos gerados para garantir a máxima qualidade e realismo.
+Documentação: Escrevi a documentação do projeto utilizando Markdown para descrever o processo e os resultados.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+🚀 Resultados
+Vídeo Promocional: Um vídeo de 2 minutos gerado com Pictory.AI, apresentando uma narrativa convincente e visuais realistas.
+Imagens Geradas: Uma série de 10 imagens, cada uma demonstrando diferentes capacidades da IA em criar cenários e personagens autênticos.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+💭 Reflexão 
+Criar algo 'natty' com IA foi um desafio interessante. A principal dificuldade foi ajustar os parâmetros para obter resultados que parecessem naturais e não gerados por IA. O Pictory.AI facilitou muito o processo, permitindo a criação de conteúdo de alta qualidade com relativamente pouco esforço. Este projeto me mostrou o incrível potencial das IAs generativas no campo da criação de conteúdo.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
